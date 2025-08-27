@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://olgabrani.github.io/',
+  site: 'https://olgabrani.github.io',
   base: '/lina',
 });
